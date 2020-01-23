@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+One day my wife asked me to fax a document for her before I go home from the office the following day...
+I'm annoyed that it's the 21st century already and we are still using Fax machines. What a waste of paper..
+So I figured that "hmmm, would it be nice if I can build an app that can fax a document?"..
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+So here goes nothing...
