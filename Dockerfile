@@ -20,6 +20,7 @@ COPY Gemfile Gemfile.lock /app/
 
 WORKDIR /app
 
+RUN bundle lock --add-platform x86-mingw32 x86-mswin32 x64-mingw32 java
 RUN bundle install
 
 COPY . /app

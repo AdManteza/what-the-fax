@@ -1,6 +1,7 @@
 alias dc='docker-compose'
 alias run-app='dc run --rm app'
 alias rake='run-app bundle exec rake'
+alias bundle='run-app bundle'
 alias dbconsole='run-app rails dbconsole'
 alias console='run-app rails console'
 alias debugger='dc stop app && yes | dc rm app && dc run --rm --publish 3000:3000 app'
